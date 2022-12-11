@@ -226,3 +226,26 @@ footer {
 	}
 }
 ~~~
+
+## Experience and education:
+
+ - I have been a specialist of converged and billing systems testing for more than a year at Beeline
+ - Also I have been a manual QA specialist for two years at Payme
+ - And the last experience was in role of Juniour Product Owner at Payme
+
+***I studied html, css and js from various sources a little:***
+
+- Htmlacademy (Javascript basics)
+- Learnjavascript.ru
+- SoloLearn app (html, css and Javascript)
+- sql.ex-ru (for SQL)
+- Have finished intensive course of Glo Academy named "First web-site for 3 days"
+
+- I also have finished Startup projects management course at MUK Academy in Minsk
+- And took course in product management from ProductStar
+
+For now I'm a student of *MGUTM named by K.G.Razumovsky* in Moscow city, faculty of *automation of technological processes and production* (4nd grade)
+
+## English:
+
+My English level is Pre-Intermediate and I'm improving it everyday.
