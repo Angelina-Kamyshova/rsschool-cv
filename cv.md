@@ -3,6 +3,7 @@
 ### Angelina Kamyshova, 18/03/2000 (22 y.o.)
 ### Tashkent, Uzbekistan
 
+![My photo](https://github.com/Angelina-Kamyshova/rsschool-cv/blob/gh-pages/photo.jpg)
 ## Contact Info.:
 
 *Phone:* [+998909837699](tel:+998909837699)  
